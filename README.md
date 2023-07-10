@@ -11,8 +11,7 @@ En el panel de ayuda nos muestra lo que podemos realizar con sus respectivos arg
 La primera opcion genera contraseñas:
 ![image](https://github.com/DsRojo1155/GeneratePasswords/assets/134982179/6e3ac363-bb3a-4dce-b285-012100238402)
 
-
- La segunda opción almacena las contraseñas que deseas guardar en un fichero y lo encripta con openssl
+La segunda opción almacena las contraseñas que deseas guardar en un fichero y lo encripta con openssl
 
 ![image](https://github.com/DsRojo1155/GeneratePasswords/assets/134982179/385f27d5-aeb9-4cdb-89d7-d99b4d5c8463)
 
@@ -20,6 +19,7 @@ La primera opcion genera contraseñas:
 ![image](https://github.com/DsRojo1155/GeneratePasswords/assets/134982179/6f782692-be6b-4957-ab21-656468adc9ab)
 
 La ultima opcion nos permite borrar una contraseña de usuario 
-![image](https://github.com/DsRojo1155/GeneratePasswords/assets/134982179/183e22af-20bd-468e-b544-0aa1453fd43c)
+![image](https://github.com/DsRojo1155/GeneratePasswords/assets/134982179/3b987a90-04ef-450e-a9b2-8ad343c118d4)
+
 ![image](https://github.com/DsRojo1155/GeneratePasswords/assets/134982179/9c75f2ec-6bf2-4589-966d-fbb0a8343cc2)
 
