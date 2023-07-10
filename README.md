@@ -16,4 +16,5 @@ En el panel de ayuda nos muestra lo que podemos realizar con sus respectivos arg
 
 ![image](https://github.com/DsRojo1155/GeneratePasswords/assets/134982179/385f27d5-aeb9-4cdb-89d7-d99b4d5c8463)
 
-# La tercera opcion nos permite
+# La tercera opcion nos permite desencriptar el archivo de las contraseñas, debemos ingresar la clave que se genero cuando encryptamos el archivo de las contraseñas
+![image](https://github.com/DsRojo1155/GeneratePasswords/assets/134982179/6f782692-be6b-4957-ab21-656468adc9ab)
